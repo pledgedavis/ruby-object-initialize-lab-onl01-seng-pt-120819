@@ -2,16 +2,17 @@
 class Person
   def intialize(name)
      @name = name
-  # beyonce = Person.new("Beyonce")
-  def name
-     @name
-   # def beyonce
-  #     # @beyonce
-    def name=(new_name)
-      @name = new_name
    end
-  end
-end
+  # beyonce = Person.new("Beyonce")
+#   def name
+#     @name
+#   # def beyonce
+#   #     # @beyonce
+#     def name=(new_name)
+#       @name = new_name
+#   end
+#   end
+# end
 end
 # beyonce = Person.new("Beyonce")
 # lassie = Dog.new("Collie")
